@@ -1,4 +1,4 @@
-# IF4021 – Sistem Teknologi Multimedia
+# IF25-40305 – Sistem Teknologi Multimedia
 Repo ini berisi Notebook Jupyter, file PDF hasil ekspor, serta folder ```data/``` untuk aset pendukung (mis. audio). Seluruh kode utama berada di notebook (format .ipynb).
 
 ### Struktur Repository
